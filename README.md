@@ -1,3 +1,6 @@
+
+> This is the original Streamlit version of Loupe. The current Loupe AI Analytics Platform expands this prototype into a full analytics operating layer: Commerce Intelligence, Metric Governance, and Data Quality Triage.
+
 ## Evolution: Loupe AI Platform
 
 Loupe OG was the original Streamlit proof-of-concept for the core assistant workflow: ask a plain-English commerce question, query governed warehouse data, and return a grounded business answer.
