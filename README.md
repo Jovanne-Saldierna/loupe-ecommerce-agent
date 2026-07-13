@@ -1,4 +1,23 @@
-# Loupe — E-Commerce Analytics Agent
+## Evolution: Loupe AI Platform
+
+Loupe OG was the original Streamlit proof-of-concept for the core assistant workflow: ask a plain-English commerce question, query governed warehouse data, and return a grounded business answer.
+
+The project has since expanded into the **Loupe AI Analytics Platform**, a three-layer analytics operating system covering business performance, metric trust, and data reliability.
+
+### Current platform apps
+
+| Layer | App | Purpose |
+|---|---|---|
+| Business Performance | Loupe Commerce Intelligence | Answers plain-English commerce questions and surfaces executive performance insights. |
+| BI Trust | Metric Governance Copilot | Reviews SQL, validates governed metric definitions, shows definition drift, and produces steward summaries. |
+| Engineering Reliability | Data Quality Incident Triage | Detects data-quality issues, generates AI triage playbooks, provides SQL sandbox debugging, and maps downstream impact. |
+
+**Current platform repo:** [Loupe AI Analytics Platform](https://github.com/Jovanne-Saldierna/loupe-platform)
+
+**Live apps:**
+- [Loupe Commerce Intelligence](https://loupe-web-eight.vercel.app/)
+- [Metric Governance Copilot](https://governance-web-opal.vercel.app/)
+- [Data Quality Incident Triage](https://triage-web-eight.vercel.app/)
 
 **Live app:** [loupe-ecommerce-agent.streamlit.app](https://loupe-ecommerce-agent.streamlit.app)
 
